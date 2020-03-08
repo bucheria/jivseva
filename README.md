@@ -3,6 +3,8 @@
 
 JivSeva.org is a non-profit, online service that enables humans to support animals by donating goods, time, or money. The service is, and will always be free to use.
 
+![Profile Pic](/images/logo.png)
+
 ### Focus areas
 - Improved healthcare
 - Provide nutrition
